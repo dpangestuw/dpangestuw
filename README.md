@@ -1,8 +1,7 @@
 # Hi there! 👋  
-I'm **dpangestuw**, a proud **ChatGPT Power User** who loves pushing the boundaries of AI conversations. With countless hours of experimenting, I've become skilled in making the most out of ChatGPT, from generating ideas to solving complex problems—one prompt at a time.
+I'm **dpangestuw** just an ordinary person navigating the world of technology. I don't have any specialized skills or extensive knowledge, but I believe in the power of learning and creativity.
 
 ![Indonesia](https://img.shields.io/badge/From-Indonesia-red?style=for-the-badge&logo=indonesia)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-Expert-green?style=for-the-badge&logo=chatgpt)
 
 
 
